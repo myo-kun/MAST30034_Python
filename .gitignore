@@ -124,3 +124,6 @@ data/large/yellow_tripdata_2015-09.csv
 data/large/yellow_tripdata_2015-10.csv
 data/large/yellow_tripdata_2015-11.csv
 data/large/yellow_tripdata_2015-12.csv
+
+# Parquet file
+*.parquet
